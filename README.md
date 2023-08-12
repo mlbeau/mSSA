@@ -1,3 +1,19 @@
+About the Algorithm and Notebook Code
+
+This repository showcases the Multivariate Singular Spectrum Analysis (mSSA) algorithm developed by MIT professors Anish Agarwal, Abdullah Alomar, and Devavrat Shah. The mSSA algorithm is a matrix factorization method that is particularly useful for time-series forecasting and imputation.
+
+For a detailed understanding of the algorithm, we recommend referring to the original paper: [On Multivariate Singular Spectrum Analysis](https://arxiv.org/pdf/2006.13448.pdf).
+
+The Python library for implementing the mSSA algorithm can be found in the GitHub repository by Abdullah Alomar: [mSSA GitHub Repository](https://github.com/AbdullahO/mSSA). Please note that this library is not available in PyPi, so the installation process may differ. Below, we provide step-by-step instructions for installing and using the library on your local machine.
+
+In addition to the algorithm, this repository also includes a Jupyter notebook (located [here](https://github.com/mlbeau/mSSA/blob/main/Matrix%20Factorization%20for%20Time%20Series%20Forecasting_Electricity%20Load.ipynb) that demonstrates the practical application of mSSA for time-series forecasting and imputation. The notebook code is based on the work done by Abdullah Alomar and is available in his GitHub repository.
+
+We want to express our gratitude to Anish Agarwal, Abdullah Alomar, and Devavrat Shah for their contribution to the algorithm and Abdullah Alomar for the insightful notebook code.
+
+Instructions for Installation and Usage
+...
+
+
 # Multivariate Singular Spectrum Analysis (mSSA)
 
 Multivariate Singular Spectrum (mSSA) is an algorithm for multivariate time series forecasting and imputation. 
